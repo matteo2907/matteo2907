@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **C++**
 
+- 👨‍💻 I’m a **highschool student**
+
 - ⚡ Fun fact **I can juggle**
 
 <h3 align="left">Connect with me:</h3>
